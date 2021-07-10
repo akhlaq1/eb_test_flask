@@ -1,0 +1,1 @@
+ssh -i eb_instance_qa_flask.pub ec2-user@qaflask-env.eba-dirtfgqj.us-east-1.elasticbeanstalk.com
